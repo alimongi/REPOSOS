@@ -1,0 +1,7 @@
+all:
+  doctrine:
+    class: sfDoctrineDatabase
+    param:
+      dsn: 'mysql:host=localhost;dbname=inassVreposos'
+      username: inassVreposos
+      password: 1Zn@s5VR

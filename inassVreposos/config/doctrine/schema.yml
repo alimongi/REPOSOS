@@ -1,0 +1,220 @@
+sfGuardUser:
+  columns:
+    cedula:
+      type: integer (8)
+      unique: true
+      notnull: false
+      notblank: false
+    cargo:
+      type: string (120)
+      unique: false
+      notnull: false
+      notblank: false
+
+Nestudios:
+  actAs:
+    Timestampable: ~
+    SoftDelete: ~
+  columns:
+    id:
+      primary: true
+      type: integer(4)
+      notnull: true
+      autoincrement: true
+    nombre:
+      type: string(240)
+      notnull: true
+      notblank: true
+      minlength: 4
+
+Profesion:
+  actAs:
+    Timestampable: ~
+    SoftDelete: ~
+  columns:
+    id:
+      primary: true
+      type: integer(4)
+      notnull: true
+      autoincrement: true
+    nombre:
+      type: string(240)
+      notnull: true
+      notblank: true
+      minlength: 4
+
+
+Centros:
+  actAs:
+    Timestampable: ~
+    SoftDelete: ~
+  columns:
+    id:
+      primary: true
+      type: integer(4)
+      notnull: true
+      autoincrement: true
+    nombre:
+      type: string(240)
+      notnull: true
+      notblank: true
+      minlength: 4
+
+Especialidad:
+  actAs:
+    Timestampable: ~
+    SoftDelete: ~
+  columns:
+    id:
+      primary: true
+      type: integer(4)
+      notnull: true
+      autoincrement: true
+    descripcion:
+      type: string(240)
+      notnull: true
+      notblank: true
+      minlength: 4
+      
+Empleado:
+  actAs:
+    Timestampable: ~
+    SoftDelete: ~
+  columns:
+    id:
+      primary: true
+      type: integer(4)
+      notnull: true
+      autoincrement: true
+    codigo:
+      type: string(120)
+      notnull: false
+      notblank: false
+      minlength: 4   
+    cargo:
+      type: string(120)
+      notnull: false
+      notblank: false
+      minlength: 4  
+    fingreso:
+      type: date
+      notnull: true
+      notblank: true  
+    activoivss:
+      type: enum
+      values: [S, N]
+      notnull: true
+      notblank: true      
+    cedula:
+      type: integer (8)
+      unique: true
+      notnull: true
+      notblank: true      
+    nombre:
+      type: string(120)
+      notnull: true
+      notblank: true
+      minlength: 4
+    apellido:
+      type: string(120)
+      notnull: true
+      notblank: true
+      minlength: 4
+    sexo:
+      type: enum
+      values: [M, F]
+      notnull: true
+      notblank: true
+    fnacimiento:
+      type: date
+      notnull: true
+      notblank: true    
+    telefono:
+      type: string(11)
+      unique: false
+      notnull: false
+      notblank: false 
+    nhijos:
+      type: string(11)
+      unique: false
+      notnull: false
+      notblank: false 
+    nestudios_id:
+      type: integer (4)
+      notnull: false
+    profesion_id:
+      type: integer (4)
+      notnull: false
+    estadociv:
+      type: enum
+      values: [Solter@, Casad@, Viud@, Divorciad@, Separad@, Concubin@]
+      notnull: false
+      notblank: false
+  relations:
+    Nestudios:
+      local: nestudios_id
+      foreign: id
+    Profesion:
+      local: profesion_id
+      foreign: id
+ 
+
+Reposos:
+  actAs:
+    Timestampable: ~
+    SoftDelete: ~
+  columns:
+    id:
+      primary: true
+      type: integer(4)
+      notnull: true
+      autoincrement: true
+    empleado_id:
+      type: integer (4)
+      notnull: true 
+    finicio:
+      type: date
+      notnull: false
+      notblank: false
+    dias:
+      type: integer (4)
+      notnull: false
+      notblank: false         
+    ffin:
+      type: date
+      notnull: false
+      notblank: false
+    forma1452:
+      type: enum
+      values: [S, N]
+      notnull: true
+      notblank: true      
+    especialidad_id:
+      type: integer (4)
+      notnull: true  
+    centros_id:
+      type: integer (4)
+      notnull: true 
+    finireposocont:
+      type: date
+      notnull: false
+      notblank: false     
+    diasrepcont:
+      type: integer (4)
+      notnull: false
+      notblank: false   
+    observacion:
+      type: string(240)
+      notnull: false
+      notblank: false
+      minlength: 4
+  relations:
+    Empleado:
+      local: empleado_id
+      foreign: id
+    Especialidad:
+      local: especialidad_id
+      foreign: id
+    Centros:
+      local: centros_id
+      foreign: id

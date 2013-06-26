@@ -1,0 +1,14 @@
+sfGuardUser:
+  sfGuardUser_1:
+    first_name: alexis
+    last_name: limongi
+    email_address: alimongi@inass.gob.ve
+    username: alimongi
+    algorithm: sha1
+    salt: 85e50116a2eaa7078b2123953e74ee72
+    password: 669102cec57aaa3a95cf9118bd510f8d01f4f8e6
+    is_active: true
+    is_super_admin: true
+    last_login: null
+    created_at: '2013-06-04 10:53:40'
+    updated_at: '2013-06-04 10:53:58'

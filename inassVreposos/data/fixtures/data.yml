@@ -1,0 +1,2282 @@
+Centros:
+  Centros_1:
+    nombre: 'Hospital Trujillo'
+    created_at: '2013-06-11 11:07:47'
+    updated_at: '2013-06-11 11:39:51'
+    deleted_at: null
+  Centros_2:
+    nombre: '(IVSS) Instituto Venezolano de los Seguros Sociales'
+    created_at: '2013-06-11 11:07:59'
+    updated_at: '2013-06-11 11:07:59'
+    deleted_at: null
+  Centros_3:
+    nombre: 'Centro Clínico María Edelmira Araujo, S.A'
+    created_at: '2013-06-11 11:08:13'
+    updated_at: '2013-06-11 11:08:13'
+    deleted_at: null
+  Centros_4:
+    nombre: 'Grupo Médico de Especialidades La Candelaria'
+    created_at: '2013-06-11 11:08:28'
+    updated_at: '2013-06-11 11:08:28'
+    deleted_at: null
+  Centros_5:
+    nombre: 'Instituto Médico Valera '
+    created_at: '2013-06-11 11:08:45'
+    updated_at: '2013-06-11 11:08:45'
+    deleted_at: null
+  Centros_6:
+    nombre: 'Centro Médico Quirúrgico San Antonio'
+    created_at: '2013-06-11 11:08:53'
+    updated_at: '2013-06-11 11:08:53'
+    deleted_at: null
+  Centros_7:
+    nombre: Cemo
+    created_at: '2013-06-11 11:09:02'
+    updated_at: '2013-06-11 11:09:02'
+    deleted_at: null
+  Centros_8:
+    nombre: Dismedica
+    created_at: '2013-06-11 11:09:11'
+    updated_at: '2013-06-11 11:09:11'
+    deleted_at: null
+  Centros_9:
+    nombre: 'Centro Medico Boconó'
+    created_at: '2013-06-11 11:09:19'
+    updated_at: '2013-06-11 11:09:19'
+    deleted_at: null
+  Centros_10:
+    nombre: 'Centro Médico Las Acacias'
+    created_at: '2013-06-11 11:09:28'
+    updated_at: '2013-06-11 11:09:28'
+    deleted_at: null
+  Centros_11:
+    nombre: 'Méndez T, Freddy E Dr'
+    created_at: '2013-06-11 11:09:36'
+    updated_at: '2013-06-11 11:09:36'
+    deleted_at: null
+  Centros_12:
+    nombre: 'Centro Médico Integral de La Salud'
+    created_at: '2013-06-25 00:00:00'
+    updated_at: '2013-06-25 00:00:00'
+    deleted_at: null
+  Centros_13:
+    nombre: '(CDI) Centro de Diagnostico Integral'
+    created_at: '2013-06-25 00:00:00'
+    updated_at: '2013-06-25 00:00:00'
+    deleted_at: null
+  Centros_14:
+    nombre: 'Modulo de Barrio Adentro (I y II)'
+    created_at: '2013-06-25 00:00:00'
+    updated_at: '2013-06-25 00:00:00'
+    deleted_at: null
+Empleado:
+  Empleado_1:
+    codigo: ce001
+    cargo: 'Med. Especialista I'
+    fingreso: '1987-01-01'
+    activoivss: N
+    cedula: '4314231'
+    nombre: Francisco
+    apellido: Fernández
+    sexo: M
+    fnacimiento: '1955-05-12'
+    telefono: '4167715446'
+    nhijos: '1'
+    Nestudios: Nestudios_6
+    Profesion: Profesion_92
+    estadociv: Casad@
+    created_at: '2013-06-10 11:26:00'
+    updated_at: '2013-06-11 11:33:31'
+    deleted_at: null
+  Empleado_2:
+    codigo: ce002
+    cargo: 'Asist. De Analista I'
+    fingreso: '1993-06-01'
+    activoivss: N
+    cedula: '11316614'
+    nombre: Elizabeth
+    apellido: 'Becerra A.'
+    sexo: F
+    fnacimiento: '1972-10-23'
+    telefono: '4162700731'
+    nhijos: '0'
+    Nestudios: Nestudios_3
+    Profesion: Profesion_1
+    estadociv: Solter@
+    created_at: '2013-06-10 11:26:00'
+    updated_at: '2013-06-10 11:26:00'
+    deleted_at: null
+  Empleado_3:
+    codigo: ce003
+    cargo: 'Economa I'
+    fingreso: '1990-08-01'
+    activoivss: N
+    cedula: '9315526'
+    nombre: 'Maritza del C.'
+    apellido: 'Albarran '
+    sexo: F
+    fnacimiento: '1965-11-26'
+    telefono: '4266065566'
+    nhijos: '2'
+    Nestudios: Nestudios_3
+    Profesion: Profesion_163
+    estadociv: Casad@
+    created_at: '2013-06-10 11:26:00'
+    updated_at: '2013-06-10 11:26:00'
+    deleted_at: null
+  Empleado_4:
+    codigo: ce004
+    cargo: 'Contabilista I'
+    fingreso: '1990-01-08'
+    activoivss: N
+    cedula: '5500284'
+    nombre: 'Ramon Alfonso'
+    apellido: Villa
+    sexo: M
+    fnacimiento: '1957-05-17'
+    telefono: '4169716600'
+    nhijos: '2'
+    Nestudios: Nestudios_3
+    Profesion: Profesion_1
+    estadociv: Casad@
+    created_at: '2013-06-10 11:26:00'
+    updated_at: '2013-06-10 11:26:00'
+    deleted_at: null
+  Empleado_5:
+    codigo: ce005
+    cargo: Recepcionista
+    fingreso: '1991-01-01'
+    activoivss: N
+    cedula: '9322455'
+    nombre: 'Mercedes E.'
+    apellido: 'Valero '
+    sexo: F
+    fnacimiento: '1962-06-02'
+    telefono: '4167360842'
+    nhijos: '2'
+    Nestudios: Nestudios_3
+    Profesion: Profesion_1
+    estadociv: Solter@
+    created_at: '2013-06-10 11:26:00'
+    updated_at: '2013-06-10 11:26:00'
+    deleted_at: null
+  Empleado_6:
+    codigo: ce006
+    cargo: 'Medico I'
+    fingreso: '1999-03-10'
+    activoivss: N
+    cedula: '9303401'
+    nombre: 'Marys del V'
+    apellido: 'López C.'
+    sexo: F
+    fnacimiento: '1966-01-29'
+    telefono: '4164790923'
+    nhijos: '2'
+    Nestudios: Nestudios_6
+    Profesion: Profesion_92
+    estadociv: Casad@
+    created_at: '2013-06-10 11:26:00'
+    updated_at: '2013-06-10 11:26:00'
+    deleted_at: null
+  Empleado_7:
+    codigo: ce007
+    cargo: 'Tec. Sup. Trabajo S. '
+    fingreso: '2001-07-01'
+    activoivss: N
+    cedula: '9167697'
+    nombre: 'Saira M.'
+    apellido: Castellanos
+    sexo: F
+    fnacimiento: '1964-01-16'
+    telefono: '4269707219'
+    nhijos: '3'
+    Nestudios: Nestudios_6
+    Profesion: Profesion_156
+    estadociv: Casad@
+    created_at: '2013-06-10 11:26:00'
+    updated_at: '2013-06-10 11:26:00'
+    deleted_at: null
+  Empleado_8:
+    codigo: ce008
+    cargo: 'Apoyo Tec. Administracion'
+    fingreso: '2004-03-08'
+    activoivss: N
+    cedula: '12722603'
+    nombre: 'Esther N.'
+    apellido: 'Fuenmayor '
+    sexo: F
+    fnacimiento: '1977-06-23'
+    telefono: '4168725479'
+    nhijos: '1'
+    Nestudios: Nestudios_6
+    Profesion: Profesion_7
+    estadociv: Solter@
+    created_at: '2013-06-10 11:26:00'
+    updated_at: '2013-06-10 11:26:00'
+    deleted_at: null
+  Empleado_9:
+    codigo: ce009
+    cargo: 'Apoyo Tec. Área Social'
+    fingreso: '2008-11-03'
+    activoivss: N
+    cedula: '10395444'
+    nombre: 'Noris M.'
+    apellido: 'Suarez Rojas'
+    sexo: F
+    fnacimiento: '1969-05-15'
+    telefono: '4169777810'
+    nhijos: '2'
+    Nestudios: Nestudios_5
+    Profesion: Profesion_156
+    estadociv: Solter@
+    created_at: '2013-06-10 11:26:00'
+    updated_at: '2013-06-10 11:26:00'
+    deleted_at: null
+  Empleado_10:
+    codigo: ce011
+    cargo: 'Apoyo Tec. Área Social'
+    fingreso: '2010-03-08'
+    activoivss: N
+    cedula: '12458399'
+    nombre: Kleira
+    apellido: 'Rubio '
+    sexo: F
+    fnacimiento: '1976-08-09'
+    telefono: '4245164751'
+    nhijos: '0'
+    Nestudios: Nestudios_5
+    Profesion: Profesion_156
+    estadociv: Solter@
+    created_at: '2013-06-10 11:26:00'
+    updated_at: '2013-06-10 11:26:00'
+    deleted_at: null
+  Empleado_11:
+    codigo: ce013
+    cargo: 'Apoyo Tec. Recursos H.'
+    fingreso: '2010-05-16'
+    activoivss: N
+    cedula: '13261197'
+    nombre: Yosmary
+    apellido: 'Aguilar C.'
+    sexo: F
+    fnacimiento: '1976-11-28'
+    telefono: '4266271051'
+    nhijos: '1'
+    Nestudios: Nestudios_6
+    Profesion: Profesion_7
+    estadociv: Solter@
+    created_at: '2013-06-10 11:26:00'
+    updated_at: '2013-06-10 11:26:00'
+    deleted_at: null
+  Empleado_12:
+    codigo: ce014
+    cargo: 'Apoyo Tec. Administrativo'
+    fingreso: '2010-05-16'
+    activoivss: N
+    cedula: '16266646'
+    nombre: Norbelis
+    apellido: Hernández
+    sexo: F
+    fnacimiento: '1984-04-15'
+    telefono: '4262619051'
+    nhijos: '2'
+    Nestudios: Nestudios_5
+    Profesion: Profesion_161
+    estadociv: Solter@
+    created_at: '2013-06-10 11:26:00'
+    updated_at: '2013-06-10 11:26:00'
+    deleted_at: null
+  Empleado_13:
+    codigo: ce015
+    cargo: 'Directora (E)'
+    fingreso: '2010-07-01'
+    activoivss: N
+    cedula: '17865045'
+    nombre: Yasneirys
+    apellido: Castellanos
+    sexo: F
+    fnacimiento: '1986-07-16'
+    telefono: '4261785080'
+    nhijos: '0'
+    Nestudios: Nestudios_6
+    Profesion: Profesion_160
+    estadociv: Solter@
+    created_at: '2013-06-10 11:26:00'
+    updated_at: '2013-06-10 11:26:00'
+    deleted_at: null
+  Empleado_14:
+    codigo: ce016
+    cargo: 'Promotor Social'
+    fingreso: '2010-06-01'
+    activoivss: N
+    cedula: '20789086'
+    nombre: 'Joel Ignacio'
+    apellido: 'Manzanilla J.'
+    sexo: M
+    fnacimiento: '1991-09-02'
+    telefono: '4147479156'
+    nhijos: '0'
+    Nestudios: Nestudios_3
+    Profesion: Profesion_1
+    estadociv: Solter@
+    created_at: '2013-06-10 11:26:00'
+    updated_at: '2013-06-10 11:26:00'
+    deleted_at: null
+  Empleado_15:
+    codigo: ce017
+    cargo: 'Apoyo en Área Rec. Humanos'
+    fingreso: '2008-07-22'
+    activoivss: N
+    cedula: '15152417'
+    nombre: Damarys
+    apellido: 'Cano García'
+    sexo: F
+    fnacimiento: '1981-06-15'
+    telefono: '4167161866'
+    nhijos: '2'
+    Nestudios: Nestudios_5
+    Profesion: Profesion_162
+    estadociv: Solter@
+    created_at: '2013-06-10 11:26:00'
+    updated_at: '2013-06-10 11:26:00'
+    deleted_at: null
+  Empleado_16:
+    codigo: ce018
+    cargo: 'Apoyo Tec. trabajo Social'
+    fingreso: '2004-08-06'
+    activoivss: N
+    cedula: '16065210'
+    nombre: Yolimar
+    apellido: Viloria
+    sexo: F
+    fnacimiento: '1983-02-15'
+    telefono: '4147535325'
+    nhijos: '0'
+    Nestudios: Nestudios_5
+    Profesion: Profesion_156
+    estadociv: Solter@
+    created_at: '2013-06-10 11:26:00'
+    updated_at: '2013-06-10 11:26:00'
+    deleted_at: null
+  Empleado_17:
+    codigo: ce020
+    cargo: 'Apoyo Tec. Informatica'
+    fingreso: '2010-08-04'
+    activoivss: N
+    cedula: '12501993'
+    nombre: 'Alexis W.'
+    apellido: 'Limongi D.'
+    sexo: M
+    fnacimiento: '1976-05-01'
+    telefono: '4265153590'
+    nhijos: '2'
+    Nestudios: Nestudios_6
+    Profesion: Profesion_3
+    estadociv: Solter@
+    created_at: '2013-06-10 11:26:00'
+    updated_at: '2013-06-12 15:08:13'
+    deleted_at: null
+  Empleado_18:
+    codigo: ce021
+    cargo: 'Ayud. Serv. Cocina '
+    fingreso: '2008-08-01'
+    activoivss: N
+    cedula: '12905269'
+    nombre: 'Liz Nailu'
+    apellido: 'Rojo Gómez'
+    sexo: F
+    fnacimiento: '1974-09-18'
+    telefono: '2718810080'
+    nhijos: '2'
+    Nestudios: Nestudios_1
+    Profesion: Profesion_1
+    estadociv: Solter@
+    created_at: '2013-06-10 11:26:00'
+    updated_at: '2013-06-10 11:26:00'
+    deleted_at: null
+  Empleado_19:
+    codigo: ce022
+    cargo: Camarera
+    fingreso: '2006-02-20'
+    activoivss: N
+    cedula: '8722510'
+    nombre: 'Edilsa Angelina'
+    apellido: Cáceres
+    sexo: F
+    fnacimiento: '1969-03-24'
+    telefono: '4162745128'
+    nhijos: '5'
+    Nestudios: Nestudios_1
+    Profesion: Profesion_1
+    estadociv: Solter@
+    created_at: '2013-06-10 11:26:00'
+    updated_at: '2013-06-10 11:26:00'
+    deleted_at: null
+  Empleado_20:
+    codigo: ce023
+    cargo: Camarera
+    fingreso: '2000-02-16'
+    activoivss: N
+    cedula: '9001685'
+    nombre: Brigida
+    apellido: 'Morillo '
+    sexo: F
+    fnacimiento: '1961-11-12'
+    telefono: '4161727727'
+    nhijos: '3'
+    Nestudios: Nestudios_1
+    Profesion: Profesion_1
+    estadociv: Solter@
+    created_at: '2013-06-10 11:26:00'
+    updated_at: '2013-06-10 11:26:00'
+    deleted_at: null
+  Empleado_21:
+    codigo: ce024
+    cargo: Chofer
+    fingreso: '2000-03-02'
+    activoivss: N
+    cedula: '12043249'
+    nombre: 'Edgar E.'
+    apellido: Manzanilla
+    sexo: M
+    fnacimiento: '1974-02-01'
+    telefono: '2716630216'
+    nhijos: '2'
+    Nestudios: Nestudios_1
+    Profesion: Profesion_1
+    estadociv: Solter@
+    created_at: '2013-06-10 11:26:00'
+    updated_at: '2013-06-10 11:26:00'
+    deleted_at: null
+  Empleado_22:
+    codigo: ce025
+    cargo: 'Ayud. Serv. Cocina'
+    fingreso: '2003-10-01'
+    activoivss: N
+    cedula: '9310428'
+    nombre: Maritza
+    apellido: 'Hernández '
+    sexo: F
+    fnacimiento: '1964-05-02'
+    telefono: null
+    nhijos: '1'
+    Nestudios: Nestudios_1
+    Profesion: Profesion_1
+    estadociv: Solter@
+    created_at: '2013-06-10 11:26:00'
+    updated_at: '2013-06-10 11:26:00'
+    deleted_at: null
+  Empleado_23:
+    codigo: ce026
+    cargo: Vigilante
+    fingreso: '2007-03-23'
+    activoivss: N
+    cedula: '6131419'
+    nombre: 'Jose Rafael'
+    apellido: 'Gudiño '
+    sexo: M
+    fnacimiento: '1960-04-21'
+    telefono: '4262424152'
+    nhijos: '2'
+    Nestudios: Nestudios_1
+    Profesion: Profesion_1
+    estadociv: Solter@
+    created_at: '2013-06-10 11:26:00'
+    updated_at: '2013-06-10 11:26:00'
+    deleted_at: null
+  Empleado_24:
+    codigo: ce027
+    cargo: 'Aux. de Enfermería'
+    fingreso: '1987-07-15'
+    activoivss: N
+    cedula: '9497166'
+    nombre: 'Milagros del V'
+    apellido: González
+    sexo: F
+    fnacimiento: '1967-03-15'
+    telefono: '4164791414'
+    nhijos: '2'
+    Nestudios: Nestudios_6
+    Profesion: Profesion_1
+    estadociv: Solter@
+    created_at: '2013-06-10 11:26:00'
+    updated_at: '2013-06-10 11:26:00'
+    deleted_at: null
+  Empleado_25:
+    codigo: ce028
+    cargo: 'Ayud. Serv. Cocina'
+    fingreso: '1987-04-20'
+    activoivss: N
+    cedula: '10909042'
+    nombre: Damaris
+    apellido: Gómez
+    sexo: F
+    fnacimiento: '1954-06-17'
+    telefono: '4147275090'
+    nhijos: '2'
+    Nestudios: Nestudios_1
+    Profesion: Profesion_1
+    estadociv: Solter@
+    created_at: '2013-06-10 11:26:00'
+    updated_at: '2013-06-10 11:26:00'
+    deleted_at: null
+  Empleado_26:
+    codigo: ce029
+    cargo: Vigilante
+    fingreso: '1987-10-01'
+    activoivss: N
+    cedula: '6303117'
+    nombre: 'José Rogelio'
+    apellido: 'Gudiño '
+    sexo: M
+    fnacimiento: '1964-02-11'
+    telefono: '2718810256'
+    nhijos: '2'
+    Nestudios: Nestudios_1
+    Profesion: Profesion_1
+    estadociv: Casad@
+    created_at: '2013-06-10 11:26:00'
+    updated_at: '2013-06-10 11:26:00'
+    deleted_at: null
+  Empleado_27:
+    codigo: ce030
+    cargo: 'Ayud. Serv Generales '
+    fingreso: '1954-06-17'
+    activoivss: N
+    cedula: '4319839'
+    nombre: 'Rubén Darío'
+    apellido: Sarmiento
+    sexo: M
+    fnacimiento: '1987-04-20'
+    telefono: '4268794417'
+    nhijos: '2'
+    Nestudios: Nestudios_1
+    Profesion: Profesion_1
+    estadociv: Solter@
+    created_at: '2013-06-10 11:26:00'
+    updated_at: '2013-06-10 11:26:00'
+    deleted_at: null
+  Empleado_28:
+    codigo: ce031
+    cargo: Vigilante
+    fingreso: '1986-09-01'
+    activoivss: N
+    cedula: '9005763'
+    nombre: 'José N.'
+    apellido: Terán
+    sexo: M
+    fnacimiento: '1958-11-16'
+    telefono: '4165100372'
+    nhijos: '1'
+    Nestudios: Nestudios_1
+    Profesion: Profesion_1
+    estadociv: Casad@
+    created_at: '2013-06-10 11:26:00'
+    updated_at: '2013-06-10 11:26:00'
+    deleted_at: null
+  Empleado_29:
+    codigo: ce032
+    cargo: 'Ayud. Serv. Cocina'
+    fingreso: '2012-01-19'
+    activoivss: N
+    cedula: '6792345'
+    nombre: 'Rosa Iris'
+    apellido: Utrilla
+    sexo: F
+    fnacimiento: '1964-01-04'
+    telefono: '4267649153'
+    nhijos: '4'
+    Nestudios: Nestudios_1
+    Profesion: Profesion_1
+    estadociv: Solter@
+    created_at: '2013-06-10 11:26:00'
+    updated_at: '2013-06-10 11:26:00'
+    deleted_at: null
+  Empleado_30:
+    codigo: ce033
+    cargo: 'Ayud. Serv Generales'
+    fingreso: '2012-01-18'
+    activoivss: N
+    cedula: '17597715'
+    nombre: 'Abdy José'
+    apellido: 'Urrieta '
+    sexo: M
+    fnacimiento: '1985-09-15'
+    telefono: '4268262396'
+    nhijos: '2'
+    Nestudios: Nestudios_3
+    Profesion: Profesion_1
+    estadociv: Solter@
+    created_at: '2013-06-10 11:26:00'
+    updated_at: '2013-06-10 11:26:00'
+    deleted_at: null
+  Empleado_31:
+    codigo: ce034
+    cargo: Chofer
+    fingreso: '2001-10-16'
+    activoivss: N
+    cedula: '9098867'
+    nombre: Gilberto
+    apellido: 'Matheus C.'
+    sexo: M
+    fnacimiento: '1962-11-30'
+    telefono: '4167124981'
+    nhijos: '2'
+    Nestudios: Nestudios_1
+    Profesion: Profesion_1
+    estadociv: Solter@
+    created_at: '2013-06-10 11:26:00'
+    updated_at: '2013-06-10 11:26:00'
+    deleted_at: null
+  Empleado_32:
+    codigo: ce035
+    cargo: Vigilante
+    fingreso: '2007-01-01'
+    activoivss: N
+    cedula: '13207595'
+    nombre: 'Rafael Isael'
+    apellido: 'Castellanos '
+    sexo: M
+    fnacimiento: '1977-07-09'
+    telefono: '4262424152'
+    nhijos: '5'
+    Nestudios: Nestudios_1
+    Profesion: Profesion_1
+    estadociv: Solter@
+    created_at: '2013-06-10 11:26:00'
+    updated_at: '2013-06-10 11:26:00'
+    deleted_at: null
+Especialidad:
+  Especialidad_1:
+    descripcion: 'Accidente Cerebro Vascular (ACV)'
+    created_at: '2013-06-11 11:31:05'
+    updated_at: '2013-06-11 11:33:01'
+    deleted_at: null
+  Especialidad_2:
+    descripcion: Acné
+    created_at: '2013-06-11 11:31:18'
+    updated_at: '2013-06-11 11:31:18'
+    deleted_at: null
+  Especialidad_3:
+    descripcion: Aftas
+    created_at: '2013-06-11 11:31:26'
+    updated_at: '2013-06-11 11:31:26'
+    deleted_at: null
+  Especialidad_4:
+    descripcion: 'Alivio del dolor por cáncer avanzado y cuidados paliativos'
+    created_at: '2013-06-11 11:31:37'
+    updated_at: '2013-06-11 11:31:37'
+    deleted_at: null
+  Especialidad_5:
+    descripcion: 'Amenaza de glaucoma'
+    created_at: '2013-06-11 11:31:46'
+    updated_at: '2013-06-11 11:31:46'
+    deleted_at: null
+  Especialidad_6:
+    descripcion: 'Analgesia del Parto'
+    created_at: '2013-06-11 11:31:54'
+    updated_at: '2013-06-11 11:31:54'
+    deleted_at: null
+  Especialidad_7:
+    descripcion: 'Aplasia medular'
+    created_at: '2013-06-11 11:32:02'
+    updated_at: '2013-06-11 11:32:02'
+    deleted_at: null
+  Especialidad_8:
+    descripcion: Arteriosclerosis
+    created_at: '2013-06-11 11:32:15'
+    updated_at: '2013-06-11 11:32:15'
+    deleted_at: null
+  Especialidad_9:
+    descripcion: 'Artritis diversas y Reumatismos inflamatorios no determinados.'
+    created_at: '2013-06-11 11:32:24'
+    updated_at: '2013-06-11 11:32:24'
+    deleted_at: null
+  Especialidad_10:
+    descripcion: 'Artritis idiopática'
+    created_at: '2013-06-11 11:32:35'
+    updated_at: '2013-06-11 11:32:35'
+    deleted_at: null
+  Especialidad_11:
+    descripcion: 'Artritis Psoriásica (AP)'
+    created_at: '2013-06-11 11:32:43'
+    updated_at: '2013-06-11 11:32:43'
+    deleted_at: null
+  Especialidad_12:
+    descripcion: 'Artritis Reactiva o Síndrome de Reiter (SR)'
+    created_at: '0000-00-00 00:00:00'
+    updated_at: '0000-00-00 00:00:00'
+    deleted_at: null
+  Especialidad_13:
+    descripcion: 'Artritis Reumatoide (AR)'
+    created_at: '0000-00-00 00:00:00'
+    updated_at: '0000-00-00 00:00:00'
+    deleted_at: null
+  Especialidad_14:
+    descripcion: 'Artritis Reumatoídea'
+    created_at: '0000-00-00 00:00:00'
+    updated_at: '0000-00-00 00:00:00'
+    deleted_at: null
+  Especialidad_15:
+    descripcion: Artrosis
+    created_at: '0000-00-00 00:00:00'
+    updated_at: '0000-00-00 00:00:00'
+    deleted_at: null
+  Especialidad_16:
+    descripcion: Asma
+    created_at: '0000-00-00 00:00:00'
+    updated_at: '0000-00-00 00:00:00'
+    deleted_at: null
+  Especialidad_17:
+    descripcion: 'Asma Bronquial'
+    created_at: '0000-00-00 00:00:00'
+    updated_at: '0000-00-00 00:00:00'
+    deleted_at: null
+  Especialidad_18:
+    descripcion: 'Bronquitis crónica'
+    created_at: '0000-00-00 00:00:00'
+    updated_at: '0000-00-00 00:00:00'
+    deleted_at: null
+  Especialidad_19:
+    descripcion: 'Cáncer cervicouterino'
+    created_at: '0000-00-00 00:00:00'
+    updated_at: '0000-00-00 00:00:00'
+    deleted_at: null
+  Especialidad_20:
+    descripcion: 'Cáncer de mama'
+    created_at: '0000-00-00 00:00:00'
+    updated_at: '0000-00-00 00:00:00'
+    deleted_at: null
+  Especialidad_21:
+    descripcion: 'Cáncer de próstata'
+    created_at: '0000-00-00 00:00:00'
+    updated_at: '0000-00-00 00:00:00'
+    deleted_at: null
+  Especialidad_22:
+    descripcion: 'Cáncer de próstata'
+    created_at: '0000-00-00 00:00:00'
+    updated_at: '0000-00-00 00:00:00'
+    deleted_at: null
+  Especialidad_23:
+    descripcion: 'Cáncer de testículo'
+    created_at: '0000-00-00 00:00:00'
+    updated_at: '0000-00-00 00:00:00'
+    deleted_at: null
+  Especialidad_24:
+    descripcion: 'Cáncer gástrico'
+    created_at: '0000-00-00 00:00:00'
+    updated_at: '0000-00-00 00:00:00'
+    deleted_at: null
+  Especialidad_25:
+    descripcion: 'Cardiopatías congénitas'
+    created_at: '0000-00-00 00:00:00'
+    updated_at: '0000-00-00 00:00:00'
+    deleted_at: null
+  Especialidad_26:
+    descripcion: 'Caries dentales'
+    created_at: '0000-00-00 00:00:00'
+    updated_at: '0000-00-00 00:00:00'
+    deleted_at: null
+  Especialidad_27:
+    descripcion: 'Cefaleas (migrañas y asociadas a la tensión)'
+    created_at: '0000-00-00 00:00:00'
+    updated_at: '0000-00-00 00:00:00'
+    deleted_at: null
+  Especialidad_28:
+    descripcion: 'Cirrosis biliar primaria (CBP)'
+    created_at: '0000-00-00 00:00:00'
+    updated_at: '0000-00-00 00:00:00'
+    deleted_at: null
+  Especialidad_29:
+    descripcion: 'Colecistectomía preventiva del cáncer de vesícula'
+    created_at: '0000-00-00 00:00:00'
+    updated_at: '0000-00-00 00:00:00'
+    deleted_at: null
+  Especialidad_30:
+    descripcion: 'Colitis microscópica'
+    created_at: '0000-00-00 00:00:00'
+    updated_at: '0000-00-00 00:00:00'
+    deleted_at: null
+  Especialidad_31:
+    descripcion: 'Colopatia funcional'
+    created_at: '0000-00-00 00:00:00'
+    updated_at: '0000-00-00 00:00:00'
+    deleted_at: null
+  Especialidad_32:
+    descripcion: 'Conjuntivitis alérgicas'
+    created_at: '0000-00-00 00:00:00'
+    updated_at: '0000-00-00 00:00:00'
+    deleted_at: null
+  Especialidad_33:
+    descripcion: 'Consumo Perjudicial o Dependencia de riesgo bajo a moderado de alcohol y drogas'
+    created_at: '0000-00-00 00:00:00'
+    updated_at: '0000-00-00 00:00:00'
+    deleted_at: null
+  Especialidad_34:
+    descripcion: Depresión
+    created_at: '0000-00-00 00:00:00'
+    updated_at: '0000-00-00 00:00:00'
+    deleted_at: null
+  Especialidad_35:
+    descripcion: 'Dermatitis herpetiforme (DH)'
+    created_at: '0000-00-00 00:00:00'
+    updated_at: '0000-00-00 00:00:00'
+    deleted_at: null
+  Especialidad_36:
+    descripcion: 'Dermatomiositis (DM)'
+    created_at: '0000-00-00 00:00:00'
+    updated_at: '0000-00-00 00:00:00'
+    deleted_at: null
+  Especialidad_37:
+    descripcion: 'Descamación epidérmica'
+    created_at: '0000-00-00 00:00:00'
+    updated_at: '0000-00-00 00:00:00'
+    deleted_at: null
+  Especialidad_38:
+    descripcion: 'Desprendimiento de retina regmatógeno no traumático'
+    created_at: '0000-00-00 00:00:00'
+    updated_at: '0000-00-00 00:00:00'
+    deleted_at: null
+  Especialidad_39:
+    descripcion: 'Diabetes mellitus insulinodependiente (DM)'
+    created_at: '0000-00-00 00:00:00'
+    updated_at: '0000-00-00 00:00:00'
+    deleted_at: null
+  Especialidad_40:
+    descripcion: 'Diabetes Mellitus Tipo 1'
+    created_at: '0000-00-00 00:00:00'
+    updated_at: '0000-00-00 00:00:00'
+    deleted_at: null
+  Especialidad_41:
+    descripcion: 'Diabetes Mellitus Tipo 2'
+    created_at: '0000-00-00 00:00:00'
+    updated_at: '0000-00-00 00:00:00'
+    deleted_at: null
+  Especialidad_42:
+    descripcion: 'Displasia broncopulmonar del prematuro'
+    created_at: '0000-00-00 00:00:00'
+    updated_at: '0000-00-00 00:00:00'
+    deleted_at: null
+  Especialidad_43:
+    descripcion: 'Displasia luxante de caderas'
+    created_at: '0000-00-00 00:00:00'
+    updated_at: '0000-00-00 00:00:00'
+    deleted_at: null
+  Especialidad_44:
+    descripcion: 'Disrafias espinales'
+    created_at: '0000-00-00 00:00:00'
+    updated_at: '0000-00-00 00:00:00'
+    deleted_at: null
+  Especialidad_45:
+    descripcion: Distonía
+    created_at: '0000-00-00 00:00:00'
+    updated_at: '0000-00-00 00:00:00'
+    deleted_at: null
+  Especialidad_46:
+    descripcion: Eccemas
+    created_at: '0000-00-00 00:00:00'
+    updated_at: '0000-00-00 00:00:00'
+    deleted_at: null
+  Especialidad_47:
+    descripcion: 'Edema de Quincke'
+    created_at: '0000-00-00 00:00:00'
+    updated_at: '0000-00-00 00:00:00'
+    deleted_at: null
+  Especialidad_48:
+    descripcion: 'Enfermedad celiaca (EC)'
+    created_at: '0000-00-00 00:00:00'
+    updated_at: '0000-00-00 00:00:00'
+    deleted_at: null
+  Especialidad_49:
+    descripcion: 'Enfermedad de Alzheimer'
+    created_at: '0000-00-00 00:00:00'
+    updated_at: '0000-00-00 00:00:00'
+    deleted_at: null
+  Especialidad_50:
+    descripcion: 'Enfermedad de Basedow (EB)'
+    created_at: '0000-00-00 00:00:00'
+    updated_at: '0000-00-00 00:00:00'
+    deleted_at: null
+  Especialidad_51:
+    descripcion: 'Enfermedad de Behçet'
+    created_at: '0000-00-00 00:00:00'
+    updated_at: '0000-00-00 00:00:00'
+    deleted_at: null
+  Especialidad_52:
+    descripcion: ''
+    created_at: '0000-00-00 00:00:00'
+    updated_at: '0000-00-00 00:00:00'
+    deleted_at: null
+  Especialidad_53:
+    descripcion: 'Enfermedad de La Peyronie (ELP)'
+    created_at: '0000-00-00 00:00:00'
+    updated_at: '0000-00-00 00:00:00'
+    deleted_at: null
+  Especialidad_54:
+    descripcion: 'Enfermedad de Lyme (Artritis diversas)'
+    created_at: '0000-00-00 00:00:00'
+    updated_at: '0000-00-00 00:00:00'
+    deleted_at: null
+  Especialidad_55:
+    descripcion: 'Enfermedad de Parkinson'
+    created_at: '0000-00-00 00:00:00'
+    updated_at: '0000-00-00 00:00:00'
+    deleted_at: null
+  Especialidad_56:
+    descripcion: 'Enfermedad Pulmonar Obstructiva Crónica'
+    created_at: '0000-00-00 00:00:00'
+    updated_at: '0000-00-00 00:00:00'
+    deleted_at: null
+  Especialidad_57:
+    descripcion: 'Envejecimiento prematuro.'
+    created_at: '0000-00-00 00:00:00'
+    updated_at: '0000-00-00 00:00:00'
+    deleted_at: null
+  Especialidad_58:
+    descripcion: 'Epilepsia no refractaria'
+    created_at: '0000-00-00 00:00:00'
+    updated_at: '0000-00-00 00:00:00'
+    deleted_at: null
+  Especialidad_59:
+    descripcion: 'Esclerodermia (ES)'
+    created_at: '0000-00-00 00:00:00'
+    updated_at: '0000-00-00 00:00:00'
+    deleted_at: null
+  Especialidad_60:
+    descripcion: 'Esclerosis lateral amiotrófica (ELA)'
+    created_at: '0000-00-00 00:00:00'
+    updated_at: '0000-00-00 00:00:00'
+    deleted_at: null
+  Especialidad_61:
+    descripcion: 'Esclerosis múltiple (EM)'
+    created_at: '0000-00-00 00:00:00'
+    updated_at: '0000-00-00 00:00:00'
+    deleted_at: null
+  Especialidad_62:
+    descripcion: Espasmofilia
+    created_at: '0000-00-00 00:00:00'
+    updated_at: '0000-00-00 00:00:00'
+    deleted_at: null
+  Especialidad_63:
+    descripcion: 'Espondilitis Anquilosante (EA)'
+    created_at: '0000-00-00 00:00:00'
+    updated_at: '0000-00-00 00:00:00'
+    deleted_at: null
+  Especialidad_64:
+    descripcion: Esquizofrenia
+    created_at: '0000-00-00 00:00:00'
+    updated_at: '0000-00-00 00:00:00'
+    deleted_at: null
+  Especialidad_65:
+    descripcion: Estrabismo
+    created_at: '0000-00-00 00:00:00'
+    updated_at: '0000-00-00 00:00:00'
+    deleted_at: null
+  Especialidad_66:
+    descripcion: 'Fascitis de Shulman (FS)'
+    created_at: '0000-00-00 00:00:00'
+    updated_at: '0000-00-00 00:00:00'
+    deleted_at: null
+  Especialidad_67:
+    descripcion: 'Fatiga crónica'
+    created_at: '0000-00-00 00:00:00'
+    updated_at: '0000-00-00 00:00:00'
+    deleted_at: null
+  Especialidad_68:
+    descripcion: 'Fibromialgia (FM)'
+    created_at: '0000-00-00 00:00:00'
+    updated_at: '0000-00-00 00:00:00'
+    deleted_at: null
+  Especialidad_69:
+    descripcion: 'Fibrosis Quística'
+    created_at: '0000-00-00 00:00:00'
+    updated_at: '0000-00-00 00:00:00'
+    deleted_at: null
+  Especialidad_70:
+    descripcion: 'Fiebre Mediterránea Familiar (Artritis diversas)'
+    created_at: '0000-00-00 00:00:00'
+    updated_at: '0000-00-00 00:00:00'
+    deleted_at: null
+  Especialidad_71:
+    descripcion: 'Fiebre Reumática (FR)'
+    created_at: '0000-00-00 00:00:00'
+    updated_at: '0000-00-00 00:00:00'
+    deleted_at: null
+  Especialidad_72:
+    descripcion: 'Fisura labiopalatina'
+    created_at: '0000-00-00 00:00:00'
+    updated_at: '0000-00-00 00:00:00'
+    deleted_at: null
+  Especialidad_73:
+    descripcion: 'Gota (Artritis diversas)'
+    created_at: '0000-00-00 00:00:00'
+    updated_at: '0000-00-00 00:00:00'
+    deleted_at: null
+  Especialidad_74:
+    descripcion: Hemofilia
+    created_at: '0000-00-00 00:00:00'
+    updated_at: '0000-00-00 00:00:00'
+    deleted_at: null
+  Especialidad_75:
+    descripcion: 'Hemorragia Subaracnoidea secundaria a Ruptura de Aneurismas Cerebrales'
+    created_at: '0000-00-00 00:00:00'
+    updated_at: '0000-00-00 00:00:00'
+    deleted_at: null
+  Especialidad_76:
+    descripcion: 'Hepatitis B'
+    created_at: '0000-00-00 00:00:00'
+    updated_at: '0000-00-00 00:00:00'
+    deleted_at: null
+  Especialidad_77:
+    descripcion: 'Hepatitis C'
+    created_at: '0000-00-00 00:00:00'
+    updated_at: '0000-00-00 00:00:00'
+    deleted_at: null
+  Especialidad_78:
+    descripcion: 'Hepatitis crónica activa (HCA)'
+    created_at: '0000-00-00 00:00:00'
+    updated_at: '0000-00-00 00:00:00'
+    deleted_at: null
+  Especialidad_79:
+    descripcion: Hipercolesterolemia
+    created_at: '0000-00-00 00:00:00'
+    updated_at: '0000-00-00 00:00:00'
+    deleted_at: null
+  Especialidad_80:
+    descripcion: 'Hipertensión arterial '
+    created_at: '0000-00-00 00:00:00'
+    updated_at: '0000-00-00 00:00:00'
+    deleted_at: null
+  Especialidad_81:
+    descripcion: 'Hipoacusia Bilateral'
+    created_at: '0000-00-00 00:00:00'
+    updated_at: '0000-00-00 00:00:00'
+    deleted_at: null
+  Especialidad_82:
+    descripcion: 'Hipoacusia neurosensorial bilateral del prematuro'
+    created_at: '0000-00-00 00:00:00'
+    updated_at: '0000-00-00 00:00:00'
+    deleted_at: null
+  Especialidad_83:
+    descripcion: Hipoglucemia
+    created_at: '0000-00-00 00:00:00'
+    updated_at: '0000-00-00 00:00:00'
+    deleted_at: null
+  Especialidad_84:
+    descripcion: 'Histiocitosis de Langerhans'
+    created_at: '0000-00-00 00:00:00'
+    updated_at: '0000-00-00 00:00:00'
+    deleted_at: null
+  Especialidad_85:
+    descripcion: 'Infarto agudo del miocardio'
+    created_at: '0000-00-00 00:00:00'
+    updated_at: '0000-00-00 00:00:00'
+    deleted_at: null
+  Especialidad_86:
+    descripcion: 'Infección respiratoria aguda (IRA)'
+    created_at: '0000-00-00 00:00:00'
+    updated_at: '0000-00-00 00:00:00'
+    deleted_at: null
+  Especialidad_87:
+    descripcion: 'Insuficiencia renal crónica terminal'
+    created_at: '0000-00-00 00:00:00'
+    updated_at: '0000-00-00 00:00:00'
+    deleted_at: null
+  Especialidad_88:
+    descripcion: Leucemia
+    created_at: '0000-00-00 00:00:00'
+    updated_at: '0000-00-00 00:00:00'
+    deleted_at: null
+  Especialidad_89:
+    descripcion: Linfomas
+    created_at: '0000-00-00 00:00:00'
+    updated_at: '0000-00-00 00:00:00'
+    deleted_at: null
+  Especialidad_90:
+    descripcion: 'Litiasis vesical'
+    created_at: '0000-00-00 00:00:00'
+    updated_at: '0000-00-00 00:00:00'
+    deleted_at: null
+  Especialidad_91:
+    descripcion: 'Lupus Eritematoso Sistémico (LES)'
+    created_at: '0000-00-00 00:00:00'
+    updated_at: '0000-00-00 00:00:00'
+    deleted_at: null
+  Especialidad_92:
+    descripcion: Mastocitosis
+    created_at: '0000-00-00 00:00:00'
+    updated_at: '0000-00-00 00:00:00'
+    deleted_at: null
+  Especialidad_93:
+    descripcion: 'Miastenia gravis (MG)'
+    created_at: '0000-00-00 00:00:00'
+    updated_at: '0000-00-00 00:00:00'
+    deleted_at: null
+  Especialidad_94:
+    descripcion: Narcolepsia
+    created_at: '0000-00-00 00:00:00'
+    updated_at: '0000-00-00 00:00:00'
+    deleted_at: null
+  Especialidad_95:
+    descripcion: 'Nefropatía por IgA (NIgA) o Enfermedad de Berger'
+    created_at: '0000-00-00 00:00:00'
+    updated_at: '0000-00-00 00:00:00'
+    deleted_at: null
+  Especialidad_96:
+    descripcion: Neumonía
+    created_at: '0000-00-00 00:00:00'
+    updated_at: '0000-00-00 00:00:00'
+    deleted_at: null
+  Especialidad_97:
+    descripcion: 'Neuropatías periféricas idiopáticas (NPI)'
+    created_at: '0000-00-00 00:00:00'
+    updated_at: '0000-00-00 00:00:00'
+    deleted_at: null
+  Especialidad_98:
+    descripcion: 'Órtesis '
+    created_at: '0000-00-00 00:00:00'
+    updated_at: '0000-00-00 00:00:00'
+    deleted_at: null
+  Especialidad_99:
+    descripcion: 'Osteoporosis espontánea'
+    created_at: '0000-00-00 00:00:00'
+    updated_at: '0000-00-00 00:00:00'
+    deleted_at: null
+  Especialidad_100:
+    descripcion: 'Otras tiroiditis'
+    created_at: '0000-00-00 00:00:00'
+    updated_at: '0000-00-00 00:00:00'
+    deleted_at: null
+  Especialidad_101:
+    descripcion: 'Pancreatitis agudas y crónicas'
+    created_at: '0000-00-00 00:00:00'
+    updated_at: '0000-00-00 00:00:00'
+    deleted_at: null
+  Especialidad_102:
+    descripcion: Pénfigo
+    created_at: '0000-00-00 00:00:00'
+    updated_at: '0000-00-00 00:00:00'
+    deleted_at: null
+  Especialidad_103:
+    descripcion: 'Poliartralgias de origen desconocido.'
+    created_at: '0000-00-00 00:00:00'
+    updated_at: '0000-00-00 00:00:00'
+    deleted_at: null
+  Especialidad_104:
+    descripcion: 'Polimialgia Reumática (PR)'
+    created_at: '0000-00-00 00:00:00'
+    updated_at: '0000-00-00 00:00:00'
+    deleted_at: null
+  Especialidad_105:
+    descripcion: 'Politraumatizado Grave'
+    created_at: '0000-00-00 00:00:00'
+    updated_at: '0000-00-00 00:00:00'
+    deleted_at: null
+  Especialidad_106:
+    descripcion: 'Prevención de Parto Prematuro'
+    created_at: '0000-00-00 00:00:00'
+    updated_at: '0000-00-00 00:00:00'
+    deleted_at: null
+  Especialidad_107:
+    descripcion: 'Prevención secundaria insuficiencia renal crónica terminal'
+    created_at: '0000-00-00 00:00:00'
+    updated_at: '0000-00-00 00:00:00'
+    deleted_at: null
+  Especialidad_108:
+    descripcion: 'Problemas dispépticos'
+    created_at: '0000-00-00 00:00:00'
+    updated_at: '0000-00-00 00:00:00'
+    deleted_at: null
+  Especialidad_109:
+    descripcion: 'Psoriasis Vulgar (PV)'
+    created_at: '0000-00-00 00:00:00'
+    updated_at: '0000-00-00 00:00:00'
+    deleted_at: null
+  Especialidad_110:
+    descripcion: 'Púrpura trombocitopénica idiopática (PTI)'
+    created_at: '0000-00-00 00:00:00'
+    updated_at: '0000-00-00 00:00:00'
+    deleted_at: null
+  Especialidad_111:
+    descripcion: Quemado
+    created_at: '0000-00-00 00:00:00'
+    updated_at: '0000-00-00 00:00:00'
+    deleted_at: null
+  Especialidad_112:
+    descripcion: 'Retinopatía del prematuro'
+    created_at: '0000-00-00 00:00:00'
+    updated_at: '0000-00-00 00:00:00'
+    deleted_at: null
+  Especialidad_113:
+    descripcion: 'Retinopatía diabética'
+    created_at: '0000-00-00 00:00:00'
+    updated_at: '0000-00-00 00:00:00'
+    deleted_at: null
+  Especialidad_114:
+    descripcion: 'Rinitis alérgica'
+    created_at: '0000-00-00 00:00:00'
+    updated_at: '0000-00-00 00:00:00'
+    deleted_at: null
+  Especialidad_115:
+    descripcion: 'Rinitis crónica'
+    created_at: '0000-00-00 00:00:00'
+    updated_at: '0000-00-00 00:00:00'
+    deleted_at: null
+  Especialidad_116:
+    descripcion: 'Salud oral integral'
+    created_at: '0000-00-00 00:00:00'
+    updated_at: '0000-00-00 00:00:00'
+    deleted_at: null
+  Especialidad_117:
+    descripcion: Sarcoidosis
+    created_at: '0000-00-00 00:00:00'
+    updated_at: '0000-00-00 00:00:00'
+    deleted_at: null
+  Especialidad_118:
+    descripcion: 'Sensibilidad bioquímica ambiental'
+    created_at: '0000-00-00 00:00:00'
+    updated_at: '0000-00-00 00:00:00'
+    deleted_at: null
+  Especialidad_119:
+    descripcion: 'Síndrome de activación de los macrófagos.'
+    created_at: '0000-00-00 00:00:00'
+    updated_at: '0000-00-00 00:00:00'
+    deleted_at: null
+  Especialidad_120:
+    descripcion: 'Síndrome de Anticuerpos Antifosfolípidos (SAF)'
+    created_at: '0000-00-00 00:00:00'
+    updated_at: '0000-00-00 00:00:00'
+    deleted_at: null
+  Especialidad_121:
+    descripcion: 'Síndrome de Dificultad Respiratoria en el recién nacido'
+    created_at: '0000-00-00 00:00:00'
+    updated_at: '0000-00-00 00:00:00'
+    deleted_at: null
+  Especialidad_122:
+    descripcion: 'Síndrome de Guillain-Barré (SGB)'
+    created_at: '0000-00-00 00:00:00'
+    updated_at: '0000-00-00 00:00:00'
+    deleted_at: null
+  Especialidad_123:
+    descripcion: 'Síndrome de la inmunodeficiencia adquirida VIH/SIDA'
+    created_at: '0000-00-00 00:00:00'
+    updated_at: '0000-00-00 00:00:00'
+    deleted_at: null
+  Especialidad_124:
+    descripcion: 'Síndrome de Sjögren (SS)'
+    created_at: '0000-00-00 00:00:00'
+    updated_at: '0000-00-00 00:00:00'
+    deleted_at: null
+  Especialidad_125:
+    descripcion: 'Síndrome SAPHO'
+    created_at: '0000-00-00 00:00:00'
+    updated_at: '0000-00-00 00:00:00'
+    deleted_at: null
+  Especialidad_126:
+    descripcion: 'Sinusitis crónica'
+    created_at: '0000-00-00 00:00:00'
+    updated_at: '0000-00-00 00:00:00'
+    deleted_at: null
+  Especialidad_127:
+    descripcion: 'Sobrepeso y obesidad'
+    created_at: '0000-00-00 00:00:00'
+    updated_at: '0000-00-00 00:00:00'
+    deleted_at: null
+  Especialidad_128:
+    descripcion: Tendinitis
+    created_at: '0000-00-00 00:00:00'
+    updated_at: '0000-00-00 00:00:00'
+    deleted_at: null
+  Especialidad_129:
+    descripcion: 'Tiroiditis de Hashimoto (TH)'
+    created_at: '0000-00-00 00:00:00'
+    updated_at: '0000-00-00 00:00:00'
+    deleted_at: null
+  Especialidad_130:
+    descripcion: 'Trastornos de generación del impulso y conducción'
+    created_at: '0000-00-00 00:00:00'
+    updated_at: '0000-00-00 00:00:00'
+    deleted_at: null
+  Especialidad_131:
+    descripcion: 'Tratamiento quirúrgico de cataratas'
+    created_at: '0000-00-00 00:00:00'
+    updated_at: '0000-00-00 00:00:00'
+    deleted_at: null
+  Especialidad_132:
+    descripcion: 'Tratamiento quirúrgico de escoliosis'
+    created_at: '0000-00-00 00:00:00'
+    updated_at: '0000-00-00 00:00:00'
+    deleted_at: null
+  Especialidad_133:
+    descripcion: 'Tratamiento Quirúrgico de Hernia del Núcleo Pulposo Lumbar'
+    created_at: '0000-00-00 00:00:00'
+    updated_at: '0000-00-00 00:00:00'
+    deleted_at: null
+  Especialidad_134:
+    descripcion: 'Tratamiento quirúrgico de la hiperplasia benigna de la próstata'
+    created_at: '0000-00-00 00:00:00'
+    updated_at: '0000-00-00 00:00:00'
+    deleted_at: null
+  Especialidad_135:
+    descripcion: 'Trauma Ocular Grave'
+    created_at: '0000-00-00 00:00:00'
+    updated_at: '0000-00-00 00:00:00'
+    deleted_at: null
+  Especialidad_136:
+    descripcion: 'Traumatismo Cráneo Encefálico moderado o grave'
+    created_at: '0000-00-00 00:00:00'
+    updated_at: '0000-00-00 00:00:00'
+    deleted_at: null
+  Especialidad_137:
+    descripcion: 'Tumores Primarios del Sistema Nervioso Central'
+    created_at: '0000-00-00 00:00:00'
+    updated_at: '0000-00-00 00:00:00'
+    deleted_at: null
+  Especialidad_138:
+    descripcion: 'Urgencia Odontológica Ambulatoria'
+    created_at: '0000-00-00 00:00:00'
+    updated_at: '0000-00-00 00:00:00'
+    deleted_at: null
+  Especialidad_139:
+    descripcion: 'Uveitis anterior aguda (UAA)'
+    created_at: '0000-00-00 00:00:00'
+    updated_at: '0000-00-00 00:00:00'
+    deleted_at: null
+  Especialidad_140:
+    descripcion: 'Vasculitis con anticuerpos anticentrómero, ACA (VAC)'
+    created_at: '0000-00-00 00:00:00'
+    updated_at: '0000-00-00 00:00:00'
+    deleted_at: null
+  Especialidad_141:
+    descripcion: 'Vicios de refracción '
+    created_at: '0000-00-00 00:00:00'
+    updated_at: '0000-00-00 00:00:00'
+    deleted_at: null
+  Especialidad_142:
+    descripcion: 'Control Medico Rutinario'
+    created_at: '0000-00-00 00:00:00'
+    updated_at: '0000-00-00 00:00:00'
+    deleted_at: null
+Nestudios:
+  Nestudios_1:
+    nombre: Ninguno
+    created_at: '2013-06-11 11:07:47'
+    updated_at: '2013-06-11 11:39:51'
+    deleted_at: null
+  Nestudios_2:
+    nombre: Primaria
+    created_at: '2013-06-11 11:07:47'
+    updated_at: '2013-06-11 11:39:51'
+    deleted_at: null
+  Nestudios_3:
+    nombre: Bachiller
+    created_at: '2013-06-11 11:07:47'
+    updated_at: '2013-06-11 11:39:51'
+    deleted_at: null
+  Nestudios_4:
+    nombre: 'Tec Medio'
+    created_at: '2013-06-11 11:07:47'
+    updated_at: '2013-06-11 11:39:51'
+    deleted_at: null
+  Nestudios_5:
+    nombre: T.S.U.
+    created_at: '2013-06-11 11:07:47'
+    updated_at: '2013-06-11 11:39:51'
+    deleted_at: null
+  Nestudios_6:
+    nombre: 'Profesional Universitario'
+    created_at: '2013-06-11 11:07:47'
+    updated_at: '2013-06-11 11:39:51'
+    deleted_at: null
+  Nestudios_7:
+    nombre: 'Profesional con Postgrado'
+    created_at: '2013-06-11 11:07:47'
+    updated_at: '2013-06-11 11:39:51'
+    deleted_at: null
+  Nestudios_8:
+    nombre: 'Profesional con Maestria'
+    created_at: '2013-06-11 11:07:47'
+    updated_at: '2013-06-11 11:39:51'
+    deleted_at: null
+  Nestudios_9:
+    nombre: 'Profesional con Doctorado'
+    created_at: '2013-06-11 11:07:47'
+    updated_at: '2013-06-11 11:39:51'
+    deleted_at: null
+Profesion:
+  Profesion_1:
+    nombre: Ninguna
+    created_at: '2013-06-12 14:23:48'
+    updated_at: '2013-06-12 14:23:48'
+    deleted_at: null
+  Profesion_2:
+    nombre: ' abogado '
+    created_at: '2013-06-12 14:23:48'
+    updated_at: '2013-06-12 14:23:48'
+    deleted_at: null
+  Profesion_3:
+    nombre: ' administrador de sistemas informáticos '
+    created_at: '2013-06-12 14:23:48'
+    updated_at: '2013-06-12 14:23:48'
+    deleted_at: null
+  Profesion_4:
+    nombre: ' administrativo de agencia de viajes '
+    created_at: '2013-06-12 14:23:48'
+    updated_at: '2013-06-12 14:23:48'
+    deleted_at: null
+  Profesion_5:
+    nombre: ' administrativo de archivado '
+    created_at: '2013-06-12 14:23:48'
+    updated_at: '2013-06-12 14:23:48'
+    deleted_at: null
+  Profesion_6:
+    nombre: ' administrativo de clasificación y reparto de correos '
+    created_at: '2013-06-12 14:23:48'
+    updated_at: '2013-06-12 14:23:48'
+    deleted_at: null
+  Profesion_7:
+    nombre: ' administrativo de finanzas '
+    created_at: '2013-06-12 14:23:48'
+    updated_at: '2013-06-12 14:23:48'
+    deleted_at: null
+  Profesion_8:
+    nombre: ' administrativo de hipotecas '
+    created_at: '2013-06-12 14:23:48'
+    updated_at: '2013-06-12 14:23:48'
+    deleted_at: null
+  Profesion_9:
+    nombre: ' administrativo de nóminas '
+    created_at: '2013-06-12 14:23:48'
+    updated_at: '2013-06-12 14:23:48'
+    deleted_at: null
+  Profesion_10:
+    nombre: ' administrativo de personal '
+    created_at: '2013-06-12 14:23:48'
+    updated_at: '2013-06-12 14:23:48'
+    deleted_at: null
+  Profesion_11:
+    nombre: ' administrativo de transporte '
+    created_at: '2013-06-12 14:23:48'
+    updated_at: '2013-06-12 14:23:48'
+    deleted_at: null
+  Profesion_12:
+    nombre: ' administrativo de ventas '
+    created_at: '2013-06-12 14:23:48'
+    updated_at: '2013-06-12 14:23:48'
+    deleted_at: null
+  Profesion_13:
+    nombre: ' agente de policía local '
+    created_at: '2013-06-12 14:23:48'
+    updated_at: '2013-06-12 14:23:48'
+    deleted_at: null
+  Profesion_14:
+    nombre: ' agente inmobiliario '
+    created_at: '2013-06-12 14:23:48'
+    updated_at: '2013-06-12 14:23:48'
+    deleted_at: null
+  Profesion_15:
+    nombre: ' agricultor de verduras u otros cultivos '
+    created_at: '2013-06-12 14:23:48'
+    updated_at: '2013-06-12 14:23:48'
+    deleted_at: null
+  Profesion_16:
+    nombre: ' albañil de construcción '
+    created_at: '2013-06-12 14:23:48'
+    updated_at: '2013-06-12 14:23:48'
+    deleted_at: null
+  Profesion_17:
+    nombre: ' albañil especialista en hormigón armado '
+    created_at: '2013-06-12 14:23:48'
+    updated_at: '2013-06-12 14:23:48'
+    deleted_at: null
+  Profesion_18:
+    nombre: ' ama de llaves '
+    created_at: '2013-06-12 14:23:48'
+    updated_at: '2013-06-12 14:23:48'
+    deleted_at: null
+  Profesion_19:
+    nombre: ' arquitecto de obra '
+    created_at: '2013-06-12 14:23:48'
+    updated_at: '2013-06-12 14:23:48'
+    deleted_at: null
+  Profesion_20:
+    nombre: ' asesor agrónomo '
+    created_at: '2013-06-12 14:23:48'
+    updated_at: '2013-06-12 14:23:48'
+    deleted_at: null
+  Profesion_21:
+    nombre: ' auxiliar de enfermería '
+    created_at: '2013-06-12 14:23:48'
+    updated_at: '2013-06-12 14:23:48'
+    deleted_at: null
+  Profesion_22:
+    nombre: ' auxiliar de vuelo '
+    created_at: '2013-06-12 14:23:48'
+    updated_at: '2013-06-12 14:23:48'
+    deleted_at: null
+  Profesion_23:
+    nombre: ' auxiliar en consultorio médico '
+    created_at: '2013-06-12 14:23:48'
+    updated_at: '2013-06-12 14:23:48'
+    deleted_at: null
+  Profesion_24:
+    nombre: ' ayudante de cocina '
+    created_at: '2013-06-12 14:23:48'
+    updated_at: '2013-06-12 14:23:48'
+    deleted_at: null
+  Profesion_25:
+    nombre: ' ayudante de montaje '
+    created_at: '2013-06-12 14:23:48'
+    updated_at: '2013-06-12 14:23:48'
+    deleted_at: null
+  Profesion_26:
+    nombre: ' bombero '
+    created_at: '2013-06-12 14:23:48'
+    updated_at: '2013-06-12 14:23:48'
+    deleted_at: null
+  Profesion_27:
+    nombre: ' cajera de supermercado, tienda '
+    created_at: '2013-06-12 14:23:48'
+    updated_at: '2013-06-12 14:23:48'
+    deleted_at: null
+  Profesion_28:
+    nombre: ' camarero o camarera '
+    created_at: '2013-06-12 14:23:48'
+    updated_at: '2013-06-12 14:23:48'
+    deleted_at: null
+  Profesion_29:
+    nombre: ' camionero internacional '
+    created_at: '2013-06-12 14:23:48'
+    updated_at: '2013-06-12 14:23:48'
+    deleted_at: null
+  Profesion_30:
+    nombre: ' capataz de trabajadores de arquitectura paisajista, mantenimiento de césped o recintos '
+    created_at: '2013-06-12 14:23:48'
+    updated_at: '2013-06-12 14:23:48'
+    deleted_at: null
+  Profesion_31:
+    nombre: ' carnicero '
+    created_at: '2013-06-12 14:23:48'
+    updated_at: '2013-06-12 14:23:48'
+    deleted_at: null
+  Profesion_32:
+    nombre: ' carpintero '
+    created_at: '2013-06-12 14:23:48'
+    updated_at: '2013-06-12 14:23:48'
+    deleted_at: null
+  Profesion_33:
+    nombre: ' catedrático '
+    created_at: '2013-06-12 14:23:48'
+    updated_at: '2013-06-12 14:23:48'
+    deleted_at: null
+  Profesion_34:
+    nombre: ' cirujano '
+    created_at: '2013-06-12 14:23:48'
+    updated_at: '2013-06-12 14:23:48'
+    deleted_at: null
+  Profesion_35:
+    nombre: ' climatólogo '
+    created_at: '2013-06-12 14:23:48'
+    updated_at: '2013-06-12 14:23:48'
+    deleted_at: null
+  Profesion_36:
+    nombre: ' cocinero de restaurante '
+    created_at: '2013-06-12 14:23:48'
+    updated_at: '2013-06-12 14:23:48'
+    deleted_at: null
+  Profesion_37:
+    nombre: ' conductor de ambulancia '
+    created_at: '2013-06-12 14:23:48'
+    updated_at: '2013-06-12 14:23:48'
+    deleted_at: null
+  Profesion_38:
+    nombre: ' confitero '
+    created_at: '2013-06-12 14:23:49'
+    updated_at: '2013-06-12 14:23:49'
+    deleted_at: null
+  Profesion_39:
+    nombre: ' consejero político '
+    created_at: '2013-06-12 14:23:49'
+    updated_at: '2013-06-12 14:23:49'
+    deleted_at: null
+  Profesion_40:
+    nombre: ' contable '
+    created_at: '2013-06-12 14:23:49'
+    updated_at: '2013-06-12 14:23:49'
+    deleted_at: null
+  Profesion_41:
+    nombre: ' cosedor, costurero '
+    created_at: '2013-06-12 14:23:49'
+    updated_at: '2013-06-12 14:23:49'
+    deleted_at: null
+  Profesion_42:
+    nombre: ' cuidador de animales, excepto ganadería '
+    created_at: '2013-06-12 14:23:49'
+    updated_at: '2013-06-12 14:23:49'
+    deleted_at: null
+  Profesion_43:
+    nombre: ' cuidador personal a domicilio '
+    created_at: '2013-06-12 14:23:49'
+    updated_at: '2013-06-12 14:23:49'
+    deleted_at: null
+  Profesion_44:
+    nombre: ' cuidador personal en institución para discapacitados '
+    created_at: '2013-06-12 14:23:49'
+    updated_at: '2013-06-12 14:23:49'
+    deleted_at: null
+  Profesion_45:
+    nombre: ' cuidador personal en institución para la tercera edad '
+    created_at: '2013-06-12 14:23:49'
+    updated_at: '2013-06-12 14:23:49'
+    deleted_at: null
+  Profesion_46:
+    nombre: ' cuidador/a de niños '
+    created_at: '2013-06-12 14:23:49'
+    updated_at: '2013-06-12 14:23:49'
+    deleted_at: null
+  Profesion_47:
+    nombre: ' decorador de interiores '
+    created_at: '2013-06-12 14:23:49'
+    updated_at: '2013-06-12 14:23:49'
+    deleted_at: null
+  Profesion_48:
+    nombre: ' dietista '
+    created_at: '2013-06-12 14:23:49'
+    updated_at: '2013-06-12 14:23:49'
+    deleted_at: null
+  Profesion_49:
+    nombre: ' director de centro de educación secundaria '
+    created_at: '2013-06-12 14:23:49'
+    updated_at: '2013-06-12 14:23:49'
+    deleted_at: null
+  Profesion_50:
+    nombre: ' director de colegio de enseñanza primaria '
+    created_at: '2013-06-12 14:23:49'
+    updated_at: '2013-06-12 14:23:49'
+    deleted_at: null
+  Profesion_51:
+    nombre: ' director de empresa, director general (de 10 a 50 empleados) '
+    created_at: '2013-06-12 14:23:49'
+    updated_at: '2013-06-12 14:23:49'
+    deleted_at: null
+  Profesion_52:
+    nombre: ' director de marketing o ventas '
+    created_at: '2013-06-12 14:23:49'
+    updated_at: '2013-06-12 14:23:49'
+    deleted_at: null
+  Profesion_53:
+    nombre: ' diseñador de bases de datos '
+    created_at: '2013-06-12 14:23:49'
+    updated_at: '2013-06-12 14:23:49'
+    deleted_at: null
+  Profesion_54:
+    nombre: ' diseñador de escaparates o expositores '
+    created_at: '2013-06-12 14:23:49'
+    updated_at: '2013-06-12 14:23:49'
+    deleted_at: null
+  Profesion_55:
+    nombre: ' diseñador de sitios web '
+    created_at: '2013-06-12 14:23:49'
+    updated_at: '2013-06-12 14:23:49'
+    deleted_at: null
+  Profesion_56:
+    nombre: ' empleado de banca '
+    created_at: '2013-06-12 14:23:49'
+    updated_at: '2013-06-12 14:23:49'
+    deleted_at: null
+  Profesion_57:
+    nombre: ' empleado de guardarropa '
+    created_at: '2013-06-12 14:23:49'
+    updated_at: '2013-06-12 14:23:49'
+    deleted_at: null
+  Profesion_58:
+    nombre: ' encargado de explotación agrícola '
+    created_at: '2013-06-12 14:23:49'
+    updated_at: '2013-06-12 14:23:49'
+    deleted_at: null
+  Profesion_59:
+    nombre: ' encargado de servicios sanitarios '
+    created_at: '2013-06-12 14:23:49'
+    updated_at: '2013-06-12 14:23:49'
+    deleted_at: null
+  Profesion_60:
+    nombre: ' encargado de taller '
+    created_at: '2013-06-12 14:23:49'
+    updated_at: '2013-06-12 14:23:49'
+    deleted_at: null
+  Profesion_61:
+    nombre: ' encargado de tienda '
+    created_at: '2013-06-12 14:23:49'
+    updated_at: '2013-06-12 14:23:49'
+    deleted_at: null
+  Profesion_62:
+    nombre: ' encargado/a de escuela infantil or guardería '
+    created_at: '2013-06-12 14:23:49'
+    updated_at: '2013-06-12 14:23:49'
+    deleted_at: null
+  Profesion_63:
+    nombre: ' enfermero de hospital '
+    created_at: '2013-06-12 14:23:49'
+    updated_at: '2013-06-12 14:23:49'
+    deleted_at: null
+  Profesion_64:
+    nombre: ' enfermero jefe '
+    created_at: '2013-06-12 14:23:49'
+    updated_at: '2013-06-12 14:23:49'
+    deleted_at: null
+  Profesion_65:
+    nombre: ' esteticista '
+    created_at: '2013-06-12 14:23:49'
+    updated_at: '2013-06-12 14:23:49'
+    deleted_at: null
+  Profesion_66:
+    nombre: ' fabricante de calzado quirúrgico '
+    created_at: '2013-06-12 14:23:49'
+    updated_at: '2013-06-12 14:23:49'
+    deleted_at: null
+  Profesion_67:
+    nombre: ' fabricante de instrumentos musicales '
+    created_at: '2013-06-12 14:23:49'
+    updated_at: '2013-06-12 14:23:49'
+    deleted_at: null
+  Profesion_68:
+    nombre: ' florista '
+    created_at: '2013-06-12 14:23:49'
+    updated_at: '2013-06-12 14:23:49'
+    deleted_at: null
+  Profesion_69:
+    nombre: ' fontanero '
+    created_at: '2013-06-12 14:23:49'
+    updated_at: '2013-06-12 14:23:49'
+    deleted_at: null
+  Profesion_70:
+    nombre: ' fotógrafo de retratos, bodas u otros eventos '
+    created_at: '2013-06-12 14:23:49'
+    updated_at: '2013-06-12 14:23:49'
+    deleted_at: null
+  Profesion_71:
+    nombre: ' gerente de hotel '
+    created_at: '2013-06-12 14:23:49'
+    updated_at: '2013-06-12 14:23:49'
+    deleted_at: null
+  Profesion_72:
+    nombre: ' gerente de logística '
+    created_at: '2013-06-12 14:23:49'
+    updated_at: '2013-06-12 14:23:49'
+    deleted_at: null
+  Profesion_73:
+    nombre: ' gerente de recursos humanos '
+    created_at: '2013-06-12 14:23:49'
+    updated_at: '2013-06-12 14:23:49'
+    deleted_at: null
+  Profesion_74:
+    nombre: ' gerente de sucursal de entidad financiera '
+    created_at: '2013-06-12 14:23:49'
+    updated_at: '2013-06-12 14:23:49'
+    deleted_at: null
+  Profesion_75:
+    nombre: ' gerente del departamento de servicios administrativos '
+    created_at: '2013-06-12 14:23:49'
+    updated_at: '2013-06-12 14:23:49'
+    deleted_at: null
+  Profesion_76:
+    nombre: ' guardia de seguridad '
+    created_at: '2013-06-12 14:23:49'
+    updated_at: '2013-06-12 14:23:49'
+    deleted_at: null
+  Profesion_77:
+    nombre: ' higienista dental '
+    created_at: '2013-06-12 14:23:49'
+    updated_at: '2013-06-12 14:23:49'
+    deleted_at: null
+  Profesion_78:
+    nombre: ' ingeniero de obras públicas '
+    created_at: '2013-06-12 14:23:49'
+    updated_at: '2013-06-12 14:23:49'
+    deleted_at: null
+  Profesion_79:
+    nombre: ' ingeniero eléctrico '
+    created_at: '2013-06-12 14:23:49'
+    updated_at: '2013-06-12 14:23:49'
+    deleted_at: null
+  Profesion_80:
+    nombre: ' inspector de hacienda '
+    created_at: '2013-06-12 14:23:49'
+    updated_at: '2013-06-12 14:23:49'
+    deleted_at: null
+  Profesion_81:
+    nombre: ' inspector de policía '
+    created_at: '2013-06-12 14:23:49'
+    updated_at: '2013-06-12 14:23:49'
+    deleted_at: null
+  Profesion_82:
+    nombre: ' instalador o mecánico de equipos de refrigeración o aire acondicionado '
+    created_at: '2013-06-12 14:23:50'
+    updated_at: '2013-06-12 14:23:50'
+    deleted_at: null
+  Profesion_83:
+    nombre: ' instalador o mecánico de sistemas de refrigeración '
+    created_at: '2013-06-12 14:23:50'
+    updated_at: '2013-06-12 14:23:50'
+    deleted_at: null
+  Profesion_84:
+    nombre: ' instalador o reparador de equipos de telecomunicaciones '
+    created_at: '2013-06-12 14:23:50'
+    updated_at: '2013-06-12 14:23:50'
+    deleted_at: null
+  Profesion_85:
+    nombre: ' investigador universitario '
+    created_at: '2013-06-12 14:23:50'
+    updated_at: '2013-06-12 14:23:50'
+    deleted_at: null
+  Profesion_86:
+    nombre: ' jardinero '
+    created_at: '2013-06-12 14:23:50'
+    updated_at: '2013-06-12 14:23:50'
+    deleted_at: null
+  Profesion_87:
+    nombre: ' jefe de mecánicos de coches '
+    created_at: '2013-06-12 14:23:50'
+    updated_at: '2013-06-12 14:23:50'
+    deleted_at: null
+  Profesion_88:
+    nombre: ' juez '
+    created_at: '2013-06-12 14:23:50'
+    updated_at: '2013-06-12 14:23:50'
+    deleted_at: null
+  Profesion_89:
+    nombre: ' laminador '
+    created_at: '2013-06-12 14:23:50'
+    updated_at: '2013-06-12 14:23:50'
+    deleted_at: null
+  Profesion_90:
+    nombre: ' limpiador de oficinas, escuelas u otros establecimientos '
+    created_at: '2013-06-12 14:23:50'
+    updated_at: '2013-06-12 14:23:50'
+    deleted_at: null
+  Profesion_91:
+    nombre: ' logopeda '
+    created_at: '2013-06-12 14:23:50'
+    updated_at: '2013-06-12 14:23:50'
+    deleted_at: null
+  Profesion_92:
+    nombre: ' médico de familia '
+    created_at: '2013-06-12 14:23:50'
+    updated_at: '2013-06-12 14:23:50'
+    deleted_at: null
+  Profesion_93:
+    nombre: ' marinero, marino '
+    created_at: '2013-06-12 14:23:50'
+    updated_at: '2013-06-12 14:23:50'
+    deleted_at: null
+  Profesion_94:
+    nombre: ' marino, miembro de la tripulación en operaciones militares '
+    created_at: '2013-06-12 14:23:50'
+    updated_at: '2013-06-12 14:23:50'
+    deleted_at: null
+  Profesion_95:
+    nombre: ' matrona profesional, comadrona profesional '
+    created_at: '2013-06-12 14:23:50'
+    updated_at: '2013-06-12 14:23:50'
+    deleted_at: null
+  Profesion_96:
+    nombre: ' mecánico de barco '
+    created_at: '2013-06-12 14:23:50'
+    updated_at: '2013-06-12 14:23:50'
+    deleted_at: null
+  Profesion_97:
+    nombre: ' mecánico de coches '
+    created_at: '2013-06-12 14:23:50'
+    updated_at: '2013-06-12 14:23:50'
+    deleted_at: null
+  Profesion_98:
+    nombre: ' mecánico de mantenimiento de planta '
+    created_at: '2013-06-12 14:23:50'
+    updated_at: '2013-06-12 14:23:50'
+    deleted_at: null
+  Profesion_99:
+    nombre: ' mecánico electricista o ajustador '
+    created_at: '2013-06-12 14:23:50'
+    updated_at: '2013-06-12 14:23:50'
+    deleted_at: null
+  Profesion_100:
+    nombre: ' monitor de equitación '
+    created_at: '2013-06-12 14:23:50'
+    updated_at: '2013-06-12 14:23:50'
+    deleted_at: null
+  Profesion_101:
+    nombre: ' monitor de natación '
+    created_at: '2013-06-12 14:23:50'
+    updated_at: '2013-06-12 14:23:50'
+    deleted_at: null
+  Profesion_102:
+    nombre: ' montador de tuberías de oleoducto '
+    created_at: '2013-06-12 14:23:50'
+    updated_at: '2013-06-12 14:23:50'
+    deleted_at: null
+  Profesion_103:
+    nombre: ' operador de cnc '
+    created_at: '2013-06-12 14:23:50'
+    updated_at: '2013-06-12 14:23:50'
+    deleted_at: null
+  Profesion_104:
+    nombre: ' operador de equipos de radiografía médica '
+    created_at: '2013-06-12 14:23:50'
+    updated_at: '2013-06-12 14:23:50'
+    deleted_at: null
+  Profesion_105:
+    nombre: ' operador de herramienta de máquina '
+    created_at: '2013-06-12 14:23:50'
+    updated_at: '2013-06-12 14:23:50'
+    deleted_at: null
+  Profesion_106:
+    nombre: ' operador de máquina para impresión '
+    created_at: '2013-06-12 14:23:50'
+    updated_at: '2013-06-12 14:23:50'
+    deleted_at: null
+  Profesion_107:
+    nombre: ' operador de máquina para perforación '
+    created_at: '2013-06-12 14:23:50'
+    updated_at: '2013-06-12 14:23:50'
+    deleted_at: null
+  Profesion_108:
+    nombre: ' operador de máquina para procesamiento de productos cárnicos '
+    created_at: '2013-06-12 14:23:50'
+    updated_at: '2013-06-12 14:23:50'
+    deleted_at: null
+  Profesion_109:
+    nombre: ' operador de moldeado de metal o colocador operador de máquina para moldeado de metal '
+    created_at: '2013-06-12 14:23:50'
+    updated_at: '2013-06-12 14:23:50'
+    deleted_at: null
+  Profesion_110:
+    nombre: ' operador de planta de procesamiento de madera '
+    created_at: '2013-06-12 14:23:50'
+    updated_at: '2013-06-12 14:23:50'
+    deleted_at: null
+  Profesion_111:
+    nombre: ' operador de planta de producción de energía eléctrica '
+    created_at: '2013-06-12 14:23:50'
+    updated_at: '2013-06-12 14:23:50'
+    deleted_at: null
+  Profesion_112:
+    nombre: ' operador de procesado de producción de bebidas '
+    created_at: '2013-06-12 14:23:50'
+    updated_at: '2013-06-12 14:23:50'
+    deleted_at: null
+  Profesion_113:
+    nombre: ' operador de procesado de producción de metal '
+    created_at: '2013-06-12 14:23:50'
+    updated_at: '2013-06-12 14:23:50'
+    deleted_at: null
+  Profesion_114:
+    nombre: ' operador de torno o herramientas de máquina de torno '
+    created_at: '2013-06-12 14:23:50'
+    updated_at: '2013-06-12 14:23:50'
+    deleted_at: null
+  Profesion_115:
+    nombre: ' operario de explotacion ganadera '
+    created_at: '2013-06-12 14:23:50'
+    updated_at: '2013-06-12 14:23:50'
+    deleted_at: null
+  Profesion_116:
+    nombre: ' orientador educativo '
+    created_at: '2013-06-12 14:23:50'
+    updated_at: '2013-06-12 14:23:50'
+    deleted_at: null
+  Profesion_117:
+    nombre: ' otros trabajadores de ventas '
+    created_at: '2013-06-12 14:23:50'
+    updated_at: '2013-06-12 14:23:50'
+    deleted_at: null
+  Profesion_118:
+    nombre: ' pavimentador '
+    created_at: '2013-06-12 14:23:50'
+    updated_at: '2013-06-12 14:23:50'
+    deleted_at: null
+  Profesion_119:
+    nombre: ' peón de obras '
+    created_at: '2013-06-12 14:23:50'
+    updated_at: '2013-06-12 14:23:50'
+    deleted_at: null
+  Profesion_120:
+    nombre: ' peluquero '
+    created_at: '2013-06-12 14:23:50'
+    updated_at: '2013-06-12 14:23:50'
+    deleted_at: null
+  Profesion_121:
+    nombre: ' periodista '
+    created_at: '2013-06-12 14:23:50'
+    updated_at: '2013-06-12 14:23:50'
+    deleted_at: null
+  Profesion_122:
+    nombre: ' pescador en aguas fluviales/dulces '
+    created_at: '2013-06-12 14:23:50'
+    updated_at: '2013-06-12 14:23:50'
+    deleted_at: null
+  Profesion_123:
+    nombre: ' pintor '
+    created_at: '2013-06-12 14:23:50'
+    updated_at: '2013-06-12 14:23:50'
+    deleted_at: null
+  Profesion_124:
+    nombre: ' profesor de bachiller especializado '
+    created_at: '2013-06-12 14:23:50'
+    updated_at: '2013-06-12 14:23:50'
+    deleted_at: null
+  Profesion_125:
+    nombre: ' profesor de educación preescolar '
+    created_at: '2013-06-12 14:23:50'
+    updated_at: '2013-06-12 14:23:50'
+    deleted_at: null
+  Profesion_126:
+    nombre: ' profesor de enseñanza primaria '
+    created_at: '2013-06-12 14:23:51'
+    updated_at: '2013-06-12 14:23:51'
+    deleted_at: null
+  Profesion_127:
+    nombre: ' profesor de enseñanza secundaria '
+    created_at: '2013-06-12 14:23:51'
+    updated_at: '2013-06-12 14:23:51'
+    deleted_at: null
+  Profesion_128:
+    nombre: ' profesor de formación profesional '
+    created_at: '2013-06-12 14:23:51'
+    updated_at: '2013-06-12 14:23:51'
+    deleted_at: null
+  Profesion_129:
+    nombre: ' programador de aplicaciones informáticas '
+    created_at: '2013-06-12 14:23:51'
+    updated_at: '2013-06-12 14:23:51'
+    deleted_at: null
+  Profesion_130:
+    nombre: ' protésico dental '
+    created_at: '2013-06-12 14:23:51'
+    updated_at: '2013-06-12 14:23:51'
+    deleted_at: null
+  Profesion_131:
+    nombre: ' psicólogo '
+    created_at: '2013-06-12 14:23:51'
+    updated_at: '2013-06-12 14:23:51'
+    deleted_at: null
+  Profesion_132:
+    nombre: ' recepcionista '
+    created_at: '2013-06-12 14:23:51'
+    updated_at: '2013-06-12 14:23:51'
+    deleted_at: null
+  Profesion_133:
+    nombre: ' representante de ventas '
+    created_at: '2013-06-12 14:23:51'
+    updated_at: '2013-06-12 14:23:51'
+    deleted_at: null
+  Profesion_134:
+    nombre: ' secretario '
+    created_at: '2013-06-12 14:23:51'
+    updated_at: '2013-06-12 14:23:51'
+    deleted_at: null
+  Profesion_135:
+    nombre: ' secretario ejecutivo '
+    created_at: '2013-06-12 14:23:51'
+    updated_at: '2013-06-12 14:23:51'
+    deleted_at: null
+  Profesion_136:
+    nombre: ' secretario legal '
+    created_at: '2013-06-12 14:23:51'
+    updated_at: '2013-06-12 14:23:51'
+    deleted_at: null
+  Profesion_137:
+    nombre: ' solador, alicatador '
+    created_at: '2013-06-12 14:23:51'
+    updated_at: '2013-06-12 14:23:51'
+    deleted_at: null
+  Profesion_138:
+    nombre: ' soldado, miembro de la tripulación en operaciones militares '
+    created_at: '2013-06-12 14:23:51'
+    updated_at: '2013-06-12 14:23:51'
+    deleted_at: null
+  Profesion_139:
+    nombre: ' soldador con autógena '
+    created_at: '2013-06-12 14:23:51'
+    updated_at: '2013-06-12 14:23:51'
+    deleted_at: null
+  Profesion_140:
+    nombre: ' suboficial de las fuerzas armadas '
+    created_at: '2013-06-12 14:23:51'
+    updated_at: '2013-06-12 14:23:51'
+    deleted_at: null
+  Profesion_141:
+    nombre: ' supervisor de calidad / inspector de otros productos '
+    created_at: '2013-06-12 14:23:52'
+    updated_at: '2013-06-12 14:23:52'
+    deleted_at: null
+  Profesion_142:
+    nombre: ' supervisor de primera línea de trabajadores de limpieza '
+    created_at: '2013-06-12 14:23:52'
+    updated_at: '2013-06-12 14:23:52'
+    deleted_at: null
+  Profesion_143:
+    nombre: ' supervisor directo de mecánicos, instaladores o reparadores '
+    created_at: '2013-06-12 14:23:52'
+    updated_at: '2013-06-12 14:23:52'
+    deleted_at: null
+  Profesion_144:
+    nombre: ' supervisor directo de trabajadores de cadena de montaje '
+    created_at: '2013-06-12 14:23:52'
+    updated_at: '2013-06-12 14:23:52'
+    deleted_at: null
+  Profesion_145:
+    nombre: ' supervisor directo de trabajadores de planta de fabricación '
+    created_at: '2013-06-12 14:23:52'
+    updated_at: '2013-06-12 14:23:52'
+    deleted_at: null
+  Profesion_146:
+    nombre: ' técnico de ingeniería mecánica '
+    created_at: '2013-06-12 14:23:52'
+    updated_at: '2013-06-12 14:23:52'
+    deleted_at: null
+  Profesion_147:
+    nombre: ' técnico de laboratorio médico '
+    created_at: '2013-06-12 14:23:52'
+    updated_at: '2013-06-12 14:23:52'
+    deleted_at: null
+  Profesion_148:
+    nombre: ' técnico de mantenimiento de aviones '
+    created_at: '2013-06-12 14:23:52'
+    updated_at: '2013-06-12 14:23:52'
+    deleted_at: null
+  Profesion_149:
+    nombre: ' técnico en ciencias de los alimentos '
+    created_at: '2013-06-12 14:23:52'
+    updated_at: '2013-06-12 14:23:52'
+    deleted_at: null
+  Profesion_150:
+    nombre: ' técnicos de ingeniería civil '
+    created_at: '2013-06-12 14:23:53'
+    updated_at: '2013-06-12 14:23:53'
+    deleted_at: null
+  Profesion_151:
+    nombre: ' taxista '
+    created_at: '2013-06-12 14:23:53'
+    updated_at: '2013-06-12 14:23:53'
+    deleted_at: null
+  Profesion_152:
+    nombre: ' techador '
+    created_at: '2013-06-12 14:23:53'
+    updated_at: '2013-06-12 14:23:53'
+    deleted_at: null
+  Profesion_153:
+    nombre: ' techador con bituminosos '
+    created_at: '2013-06-12 14:23:53'
+    updated_at: '2013-06-12 14:23:53'
+    deleted_at: null
+  Profesion_154:
+    nombre: ' trabajador de control de plagas '
+    created_at: '2013-06-12 14:23:53'
+    updated_at: '2013-06-12 14:23:53'
+    deleted_at: null
+  Profesion_155:
+    nombre: ' trabajador de la retirada y eliminación de asbesto '
+    created_at: '2013-06-12 14:23:53'
+    updated_at: '2013-06-12 14:23:53'
+    deleted_at: null
+  Profesion_156:
+    nombre: ' trabajador social'
+    created_at: '2013-06-12 14:23:53'
+    updated_at: '2013-06-12 14:23:53'
+    deleted_at: null
+  Profesion_157:
+    nombre: ' veterinario '
+    created_at: '2013-06-12 14:23:53'
+    updated_at: '2013-06-12 14:23:53'
+    deleted_at: null
+  Profesion_158:
+    nombre: ' zapatero, reparador de cuero '
+    created_at: '2013-06-12 14:23:53'
+    updated_at: '2013-06-12 14:23:53'
+    deleted_at: null
+  Profesion_159:
+    nombre: ' óptico '
+    created_at: '2013-06-12 00:00:00'
+    updated_at: '2013-06-12 00:00:00'
+    deleted_at: '0000-00-00 00:00:00'
+  Profesion_160:
+    nombre: Gerontologo
+    created_at: '2013-06-17 00:00:00'
+    updated_at: '2013-06-17 00:00:00'
+    deleted_at: null
+  Profesion_161:
+    nombre: 'Tecnico en Informatica, Computacion, Sistemas'
+    created_at: '2013-06-17 00:00:00'
+    updated_at: '2013-06-17 00:00:00'
+    deleted_at: null
+  Profesion_162:
+    nombre: 'Tecnico en RRHH'
+    created_at: '2013-06-17 00:00:00'
+    updated_at: '2013-06-17 00:00:00'
+    deleted_at: null
+  Profesion_163:
+    nombre: Economo
+    created_at: '2013-06-17 00:00:00'
+    updated_at: '2013-06-17 00:00:00'
+    deleted_at: null
+sfGuardUser:
+  sfGuardUser_1:
+    first_name: Alexis
+    last_name: Limongi
+    email_address: alimongi@inass.gob.ve
+    username: alimongi
+    algorithm: sha1
+    salt: 85e50116a2eaa7078b2123953e74ee72
+    password: @bW1#00
+    is_active: true
+    is_super_admin: true
+    last_login: '2013-06-17 14:11:28'
+    cedula: '12501993'
+    cargo: 'Apoyo Tecnico en Sistemas'
+    created_at: '2013-06-04 10:53:40'
+    updated_at: '2013-06-17 14:11:28'
+  sfGuardUser_2:
+    first_name: Damarys
+    last_name: Cano
+    email_address: damarys.cano@inass.gob.ve
+    username: dcano
+    algorithm: sha1
+    salt: 95d87f6b5a3846d98dedca603f53ca0e
+    password: 15152417
+    is_active: true
+    is_super_admin: false
+    last_login: null
+    cedula: '15152417'
+    cargo: 'Apoyo en Área Rec. Humanos'
+    created_at: '2013-06-17 14:15:38'
+    updated_at: '2013-06-17 14:15:38'
+  sfGuardUser_3:
+    first_name: Yosmary
+    last_name: Aguilar
+    email_address: yosmary.aguilar@inass.gob.ve
+    username: yaguilar
+    algorithm: sha1
+    salt: 6e9698b0c7f543280e3ae87ba4fe3f4e
+    password: 13261197
+    is_active: true
+    is_super_admin: false
+    last_login: null
+    cedula: '13261197'
+    cargo: 'Apoyo Tec. Recursos H.'
+    created_at: '2013-06-17 14:16:52'
+    updated_at: '2013-06-17 14:16:52'
+  sfGuardUser_4:
+    first_name: Elizabeth
+    last_name: Becerra
+    email_address: elizabeyh.becerra@inass.gob.ve
+    username: ebecerra
+    algorithm: sha1
+    salt: 5abf2f719a5cbbee5291e5e5ebefd870
+    password: 11316614
+    is_active: true
+    is_super_admin: false
+    last_login: null
+    cedula: '11316614'
+    cargo: 'Asist. De Analista I'
+    created_at: '2013-06-17 14:19:40'
+    updated_at: '2013-06-17 14:19:40'
